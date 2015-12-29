@@ -1,2 +1,2 @@
 # miniProf
-mini profilling tool aiming to find hot spots
+mini profiling tool aiming to find hot spots...
